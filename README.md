@@ -1,2 +1,1 @@
-# CCT360-L1
-my first dog:)
+# Jackzhang_CCT360_L1
