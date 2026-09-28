@@ -138,13 +138,8 @@
     position:absolute;
     inset:0;
     z-index:-1;
-    background:linear-gradient(180deg, rgba(22,31,19,0.72), rgba(22,31,19,0.9));
+    background:rgba(22,31,19,0.82);
   }
-  .scene[data-tone="morning"] .scene-scrim{ background:linear-gradient(180deg, rgba(16,26,28,0.76), rgba(16,26,28,0.92)); }
-  .scene[data-tone="midday"] .scene-scrim{ background:linear-gradient(180deg, rgba(18,24,14,0.6), rgba(18,24,14,0.82)); }
-  .scene[data-tone="afternoon"] .scene-scrim{ background:linear-gradient(180deg, rgba(30,24,14,0.72), rgba(30,24,14,0.9)); }
-  .scene[data-tone="evening"] .scene-scrim{ background:linear-gradient(180deg, rgba(40,26,10,0.66), rgba(40,26,10,0.9)); }
-  .scene[data-tone="closing"] .scene-scrim{ background:linear-gradient(180deg, rgba(10,13,8,0.82), rgba(10,13,8,0.96)); }
 
   .scene-time{
     position:sticky;
